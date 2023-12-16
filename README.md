@@ -10,4 +10,4 @@ Archives of the blog posts I've translated since November 2023.
 
 ### Others
 
-1. [ELF - Executable and Linkable Format](others/002.%20ELF%20–%20Executable%20and%20Linkable%20Format.md)
+1. [ELF - Executable and Linkable Format](others/002.%20ELF%20–%20Executable%20and%20Linkable%20Format)
